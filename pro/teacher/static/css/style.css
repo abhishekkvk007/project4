@@ -1,0 +1,7 @@
+body{
+    background: rgb(129,45,127);
+    background: linear-gradient(90deg, rgba(129,45,127,1) 30%, rgba(9,33,36,1) 44%, rgba(211,117,255,1) 68%, rgba(211,117,255,1) 84%);
+}
+#formc{
+    box-shadow: 10px 10px 5px black ;
+}
